@@ -2,7 +2,7 @@
 
 
 source 'https://rubygems.org'
-ruby '~> 2.6.10'
+ruby '~> 2.6.10' 
 
 gem 'puma'
 gem 'rack-rewrite'
