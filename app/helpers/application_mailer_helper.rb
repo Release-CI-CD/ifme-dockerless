@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+
 module ApplicationMailerHelper
   GROUP = %w[
     new_group new_group_member add_group_leader remove_group_leader
