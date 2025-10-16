@@ -22,7 +22,7 @@ Dealing with mental health is what makes us human. But for a lot of us, it's a
 struggle to be open about it. Not everyone is a counsellor or therapist. The
 people who we interact with everyday shape our emotions and behavior. Getting
 them involved in mental health treatment is the key to recovery.
-
+ 
 The live site can be found at [if-me.org](https://www.if-me.org/). The live design systems can be found at [design.if-me.org](http://design.if-me.org/).
 
 We use the wonderful [Contributor Covenant](http://contributor-covenant.org) for
