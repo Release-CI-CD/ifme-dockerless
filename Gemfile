@@ -7,7 +7,7 @@ ruby '~> 2.6.10'
 gem 'puma'
 gem 'rack-rewrite'
 gem 'rails', '~> 6.0.4.8'
-
+ 
 gem 'activerecord-import'
 gem 'bcrypt', '3.1.13'
 gem 'devise', '~> 4.8.1'
