@@ -4,7 +4,7 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.1%20adopted-ff69b4.svg)](code_of_conduct.md)
 [![Backers on Open Collective](https://opencollective.com/ifme/backers/badge.svg)](#backers)
 [![Sponsors on Open Collective](https://opencollective.com/ifme/sponsors/badge.svg)](#sponsors)
-[![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech) 
+[![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)
 README in: [Spanish](https://github.com/ifmeorg/ifme/blob/main/README-ES.md), [Portuguese](https://github.com/ifmeorg/ifme/blob/main/README-PT.md), [French](https://github.com/ifmeorg/ifme/blob/main/README-FR.md), [Korean](https://github.com/ifmeorg/ifme/blob/main/README-KO.md), [Indonesian](https://github.com/ifmeorg/ifme/blob/main/README-ID.md), [Turkish](https://github.com/ifmeorg/ifme/blob/main/README-TR.md), [Sinhala](https://github.com/ifmeorg/ifme/blob/main/README-LK.md), [Chinese](https://github.com/ifmeorg/ifme/blob/main/README-CN.md), 
 [Hindi](https://github.com/ifmeorg/ifme/blob/m ain/README-HI.md)     
     
