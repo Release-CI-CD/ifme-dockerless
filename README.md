@@ -30,7 +30,7 @@ before joining our project.
 
 ## Documentation
 
-Please check out our [Wiki](https://github.com/ifmeorg/ifme/wiki) for full documentation.
+Please check out our [Wiki](https://github.com/ifmeorg/ifme/wiki) for full documentation. 
 
 ### Installation
 
