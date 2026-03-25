@@ -43,7 +43,7 @@ README in: [西班牙语](https://github.com/ifmeorg/ifme/blob/main/README-ES.md
 [Open Collective](https://opencollective.com/ifme)接受完全透明公开的经济援助。
 任何人都可以申请报销。如果这笔花费对于我们社区的建设是有利的, 它将被核心贡献者“汇入”到我们Open Collective的账目中，与此同时申请这笔报销的人将会获得补偿.
 
-### 支持者
+### 支持者    
 
 感谢我们的Patreon支持者们 [Rob Drimmie](https://www.patreon.com/user?u=3251857),
 [Joseph D. Marhee](https://www.patreon.com/user?u=2899171)，和
