@@ -13,7 +13,7 @@ that encourages people to share their personal stories with trusted allies.
  
 Trusted allies are the people we interact with on a daily basis, including 
 friends, family members, co-workers, teachers, and mental health workersX.
-
+  
 Dealing with mental health is what makes us human. But for a lot of us, it's a
 struggle to be open about it. Not everyone is a counsellor or therapist. The
 people who we interact with everyday shape our emotions and behavior. Getting
