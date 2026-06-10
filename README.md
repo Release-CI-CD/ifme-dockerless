@@ -35,6 +35,7 @@ before joining our project.
 
 Please check out our [Wiki](https://github.com/ifmeorg/ifme/wiki) for full documentation. 
 
+
 ### Installation
 
 [These are the instructions](https://github.com/ifmeorg/ifme/wiki/Installation) for setting up and installing the app. Test, development, and production instances are covered.
