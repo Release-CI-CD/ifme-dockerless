@@ -6,7 +6,7 @@
 git-hooks
 
 # logfiles and tempfiles
-coverage
+coverage 
 tmp
 log
 **/*.log
