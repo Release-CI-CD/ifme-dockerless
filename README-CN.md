@@ -70,6 +70,7 @@ README in: [西班牙语](https://github.com/ifmeorg/ifme/blob/main/README-ES.md
   <a href="https://opencollective.com/ifme/sponsor/9/website" target="_blank"><img src="https://opencollective.com/ifme/sponsor/9/avatar.svg"></a>
 </section>
 
+
 ## License
 
 源代码使用GNU AGPLv3许可协议. 关于更多信息请查阅
