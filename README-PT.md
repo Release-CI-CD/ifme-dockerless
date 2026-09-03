@@ -68,6 +68,7 @@ Obrigado a todos os nossos patrocinadores! (por favor, peça a sua empresa para 
 
 ## License
 
+
 O código fonte está licenciado por GNU AGPLv3. Para mais informações, veja
 http://www.gnu.org/licenses/agpl-3.0.txt ou
 [LICENSE.txt](https://github.com/ifmeorg/ifme/blob/main/LICENSE.txt).
