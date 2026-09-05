@@ -8,6 +8,7 @@
 README en: [Inglês](https://github.com/ifmeorg/ifme/blob/main/README.md), [Espanhol](https://github.com/ifmeorg/ifme/blob/main/README-ES.md), [Francês](https://github.com/ifmeorg/ifme/blob/main/README-FR.md), [Coreano](https://github.com/ifmeorg/ifme/blob/main/README-KO.md), [Indonésio](https://github.com/ifmeorg/ifme/blob/main/README-ID.md), [Turco](https://github.com/ifmeorg/ifme/blob/main/README-TR.md), [Sinhala](https://github.com/ifmeorg/ifme/blob/main/README-LK.md), [Chinês](https://github.com/ifmeorg/ifme/blob/main/README-CN.md), 
 [Hindi](https://github.com/ifmeorg/ifme/blob/main/README-HI.md)
 
+
 # if-me.org
 
 [if-me.org](https://www.if-me.org/) é uma comunidade para experiências de saúde mental, que encoraja as pessoas a compartilhar suas histórias pessoais com aliados confiáveis. Aliados confiáveis são as pessoas com as quais interagimos diariamente, incluindo amigos, familiares, colegas de trabalho, professores e profissionais de saúde mental.
