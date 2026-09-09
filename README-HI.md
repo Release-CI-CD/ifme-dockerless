@@ -61,6 +61,7 @@ if me की लाइव साइट [if-me.org](https://www.if-me.org/) प�
 
 <a href="https://opencollective.com/ifme#backers" target="_blank"><img src="https://opencollective.com/ifme/backers.svg?width=890"></a>  
 
+
 ### प्रायोजक
 
 हमारे सभी प्रायोजकों को धन्यवाद! (कृपया अपनी कंपनी से भी इस ओपन सोर्स प्रोजेक्ट का समर्थन करने के लिए कहें
