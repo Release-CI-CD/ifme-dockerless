@@ -1,6 +1,6 @@
 version: "2"
 
-plugins:
+plugins: 
   brakeman:
     enabled: true
   bundler-audit: 
