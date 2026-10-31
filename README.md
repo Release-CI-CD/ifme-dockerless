@@ -41,6 +41,7 @@ Please check out our [Wiki](https://github.com/ifmeorg/ifme/wiki) for full docum
 
 Everyone is highly encouraged to [add themselves](https://github.com/ifmeorg/ifme/wiki/Contributor-Blurb) to our Contribute page.
 
+
 ## Donate
 
 We also welcome financial contributions in full transparency on our
