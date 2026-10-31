@@ -51,6 +51,7 @@ core contributors and the person who filed the expense will be reimbursed.
 
 ### Backers
 
+
 Thank you to our Patreon backers [Rob Drimmie](https://www.patreon.com/user?u=3251857),
 [Joseph D. Marhee](https://www.patreon.com/user?u=2899171), and
 [Carol Willing](https://www.patreon.com/user?u=202458)!
