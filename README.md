@@ -30,6 +30,7 @@ before joining our project.
  
 **Read about our project goals and how to contribute (not just as a developer) [here](https://github.com/ifmeorg/ifme/blob/main/CONTRIBUTING.md).**
 
+
 ## Documentation 
 
 Please check out our [Wiki](https://github.com/ifmeorg/ifme/wiki) for full documentation . 
